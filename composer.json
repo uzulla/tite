@@ -1,0 +1,16 @@
+{
+    "name": "uzulla/tite",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uzulla\\Tite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "uzulla",
+            "email": "uzulla@himitsukichi.com"
+        }
+    ],
+    "require": {}
+}
